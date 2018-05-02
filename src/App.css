@@ -1,0 +1,17 @@
+/* .shape-form {
+  margin-left: 25%;
+  margin-right: 25%;
+} */
+
+.shape-form input {
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.form-button {
+  display: block;
+  margin-left: 20px;
+}
